@@ -1,3 +1,19 @@
+# Instalação
+
+## Composer
+`composer require jeanjar/laravel-from-brasil`
+## Model
+Extender a classe `Modelo` dentro dos seus Models
+
+
+```php
+use LaravelFromBrasil\Eloquent\Modelo;
+
+class Cliente extends Modelo {
+    
+} 
+```
+
 # Sobre
 
 Esse pacote serve apenas para fins educativos, lúdicos e para quem quiser utilizar os métodos mais utilizados do Eloquent em Português do Brasil.

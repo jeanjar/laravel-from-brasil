@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "LaravelFromBrasil": "src/LaravelFromBrasil"
+            "LaravelFromBrasil\\": "src/LaravelFromBrasil"
         }
     }
 }

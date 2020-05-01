@@ -1,0 +1,20 @@
+{
+    "name": "jeanjar/laravel-from-brasil",
+    "description": "Tradução dos métodos mais utilizados do Eloquent, apenas para diversão",
+    "type": "library",
+    "require": {
+        "illuminate/database": "5.8.*|7.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean Jar Pereira de Araújo",
+            "email": "jeanjpa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LaravelFromBrasil": "src/LaravelFromBrasil"
+        }
+    }
+}

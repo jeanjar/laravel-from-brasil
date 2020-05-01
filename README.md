@@ -32,7 +32,7 @@ Esse pacote é apenas para traduções dos métodos do Eloquent e não para "nov
 | Original | Português do Brasil | 
 | -------- | ------------------- |
 | Model::all() | Model::todos() |
-| Model::com(...) | Model::with(...) |
+| Model::with(...) | Model::com(...) |
 | Model::load(...) | Model::carregar(...) |
 | Model::increment(...) | Model::incrementar(...) |
 | Model::decrement(...) | Model::decrementar(...) |

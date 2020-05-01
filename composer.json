@@ -16,5 +16,6 @@
         "psr-4": {
             "LaravelFromBrasil\\": "src/LaravelFromBrasil"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
